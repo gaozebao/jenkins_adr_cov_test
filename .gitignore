@@ -1,5 +1,4 @@
 .DS_Store
 .gradle
 build
-build.gradle
 app/build
